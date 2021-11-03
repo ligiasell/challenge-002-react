@@ -1,0 +1,39 @@
+h1 {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 1.38;
+  color: white;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 1.21;
+  color: var(--greyish-brown);
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.67;
+  color: var(--greyish-brown);
+}
+
+h4 {
+  font-size: 22px;
+  line-height: 1.27;
+  color: var(--greyish-brown);
+}
+
+h5 {
+  font-size: 20px;
+  line-height: 1;
+  color: var(--greyish-brown);
+}
+
+h6 {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.67;
+  color: var(--greyish-brown);
+}

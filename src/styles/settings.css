@@ -1,0 +1,14 @@
+@import '_colors.css';
+@import '_typography.css';
+
+/*
+* BASIC SETUP
+*/
+html,
+body {
+  background-color: var(--white);
+  color: var(--dark-gray);
+  font-size: 62.5%; /* 62.5% of 16px = 10px */
+  text-rendering: optimizeLegibility;
+  font-family: HelveticaNeue, Arial, sans-serif;
+}
